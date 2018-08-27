@@ -1,0 +1,12 @@
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Dados\bin\Debug\Dados.dll.config
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Dados\bin\Debug\Dados.dll
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Dados\bin\Debug\Dados.pdb
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Dados\bin\Debug\EntityFramework.dll
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Dados\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Dados\bin\Debug\EntityFramework.xml
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Dados\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Dados\obj\Debug\Dados.dll
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Dados\obj\Debug\Dados.pdb
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Dados\bin\Debug\Entidade.dll
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Dados\bin\Debug\Entidade.pdb

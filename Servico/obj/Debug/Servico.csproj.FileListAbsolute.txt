@@ -1,0 +1,14 @@
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Servico\bin\Debug\Servico.exe.config
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Servico\bin\Debug\Servico.exe
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Servico\bin\Debug\Servico.pdb
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Servico\bin\Debug\Dados.dll
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Servico\bin\Debug\EntityFramework.dll
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Servico\bin\Debug\Dados.pdb
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Servico\bin\Debug\EntityFramework.xml
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Servico\obj\Debug\Servico.csprojResolveAssemblyReference.cache
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Servico\obj\Debug\Servico.exe
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Servico\obj\Debug\Servico.pdb
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Servico\bin\Debug\Entidade.dll
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Servico\bin\Debug\Entidade.pdb
+C:\Users\asilva67\Documents\Visual Studio 2015\Projects\ProjAulaWebMVC\Servico\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asilva67\Documents\Visual Studio 2015\Projects\ProjAulaWebMVC\Servico\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,4 @@
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Entidade\bin\Debug\Entidade.dll
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Entidade\bin\Debug\Entidade.pdb
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Entidade\obj\Debug\Entidade.dll
+c:\users\asilva67\documents\visual studio 2015\Projects\ProjAulaWebMVC\Entidade\obj\Debug\Entidade.pdb
